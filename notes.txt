@@ -1,0 +1,22 @@
+MERN stack
+
+UI:
+- Scrollable list of current users signed up and who is up next highlighted at the top
+    - Show up to 10 people signed up
+- Button to sign up to sing
+    - Prompts user for name, song title, and artist
+    - Checks to make sure the song requested is in the MongoDB catalog (this is a nice to have I think)
+- Button to tip the host below the list
+    - This brings up a splash page to choose payment method (paypal, venmo, etc)
+- Button in top right to log in (This is for the admin/host to manage settings/users/songs/etc)
+
+User Level:
+- Ability to signup to sing, see current list of singers, and press buttons to tip host
+
+Admin Level:
+- Can add/remove people from the list
+- Manually add songs to the MongoDB
+- View data on users
+    - # times they have signed up
+    - Songs they have sang
+    - Tip amount?
