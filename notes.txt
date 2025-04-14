@@ -20,3 +20,7 @@ Admin Level:
     - # times they have signed up
     - Songs they have sang
     - Tip amount?
+- Ability to start/stop karaoke sessions
+    - Maybe useful to have multiple "sessions" happening at the same time?
+    - Kahoot style with session code for configuration
+    - Set location of karaoke
